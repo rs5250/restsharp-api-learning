@@ -1,0 +1,13 @@
+/Users/rajshree.sharma/RiderProjects/TestProject1/TestProject1/bin/Debug/TestProject1.dll
+/Users/rajshree.sharma/RiderProjects/TestProject1/TestProject1/bin/Debug/TestProject1.pdb
+/Users/rajshree.sharma/RiderProjects/TestProject1/TestProject1/bin/Debug/Newtonsoft.Json.dll
+/Users/rajshree.sharma/RiderProjects/TestProject1/TestProject1/bin/Debug/Newtonsoft.Json.Bson.dll
+/Users/rajshree.sharma/RiderProjects/TestProject1/TestProject1/bin/Debug/Newtonsoft.Json.Bson.pdb
+/Users/rajshree.sharma/RiderProjects/TestProject1/TestProject1/bin/Debug/Newtonsoft.Json.Schema.dll
+/Users/rajshree.sharma/RiderProjects/TestProject1/TestProject1/bin/Debug/nunit.framework.dll
+/Users/rajshree.sharma/RiderProjects/TestProject1/TestProject1/bin/Debug/RestSharp.dll
+/Users/rajshree.sharma/RiderProjects/TestProject1/TestProject1/bin/Debug/Xamarin.UITest.dll
+/Users/rajshree.sharma/RiderProjects/TestProject1/TestProject1/obj/Debug/TestProject1.csprojAssemblyReference.cache
+/Users/rajshree.sharma/RiderProjects/TestProject1/TestProject1/obj/Debug/TestProject1.csproj.CopyComplete
+/Users/rajshree.sharma/RiderProjects/TestProject1/TestProject1/obj/Debug/TestProject1.dll
+/Users/rajshree.sharma/RiderProjects/TestProject1/TestProject1/obj/Debug/TestProject1.pdb

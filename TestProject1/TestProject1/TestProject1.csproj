@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+        <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+        <ProjectGuid>{A17AD13B-BF5B-4004-9A9F-F96E64702D99}</ProjectGuid>
+        <OutputType>Library</OutputType>
+        <RootNamespace>TestProject1</RootNamespace>
+        <AssemblyName>TestProject1</AssemblyName>
+        <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    </PropertyGroup>
+    <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+        <DebugSymbols>true</DebugSymbols>
+        <DebugType>full</DebugType>
+        <Optimize>false</Optimize>
+        <OutputPath>bin\Debug</OutputPath>
+        <DefineConstants>DEBUG;</DefineConstants>
+        <ErrorReport>prompt</ErrorReport>
+        <WarningLevel>4</WarningLevel>
+    </PropertyGroup>
+    <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+        <Optimize>true</Optimize>
+        <OutputPath>bin\Release</OutputPath>
+        <ErrorReport>prompt</ErrorReport>
+        <WarningLevel>4</WarningLevel>
+    </PropertyGroup>
+    <ItemGroup>
+        <Reference Include="System" />
+    </ItemGroup>
+    <ItemGroup>
+        <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+        <PackageReference Include="Newtonsoft.Json.Bson" Version="1.0.2" />
+        <PackageReference Include="Newtonsoft.Json.Schema" Version="3.0.13" />
+        <PackageReference Include="NUnit" Version="2.6.4" />
+        <PackageReference Include="RestSharp" Version="106.10.2-alpha.0.8" />
+        <PackageReference Include="Xamarin.UITest" Version="2.2.4" />
+    </ItemGroup>
+    <ItemGroup>
+        <Compile Include="AppInitializer.cs" />
+        <Compile Include="Model\Ad.cs" />
+        <Compile Include="Model\Datum.cs" />
+        <Compile Include="Model\Location.cs" />
+        <Compile Include="Model\PagesData.cs" />
+        <Compile Include="Model\Places.cs" />
+        <Compile Include="Model\Users.cs" />
+        <Compile Include="Tests\TestGetOperation.cs" />
+        <Compile Include="Tests\TestExerciseWithPost.cs" />
+        <Compile Include="Tests\TestPostOperation.cs" />
+        <Compile Include="Tests\TEstsWithData.cs" />
+        <Compile Include="Tests\TestWithDataExercise.cs" />
+        <Compile Include="Utilities\Helper.cs" />
+    </ItemGroup>
+    <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>

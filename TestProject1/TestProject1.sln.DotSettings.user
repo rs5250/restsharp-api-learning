@@ -1,0 +1,31 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3542c18a_002Dfbb3_002D4990_002Da0c5_002Dbedd22dc5ead/@EntryIndexedValue">&lt;SessionState ContinuousTestingIsOn="False" ContinuousTestingMode="0" FrameworkVersion="{x:Null}" IsLocked="False" Name="TestPostWithTypeClass" PlatformMonoPreference="{x:Null}" PlatformType="{x:Null}" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"&gt;
+  &lt;Or&gt;
+    &lt;Or&gt;
+      &lt;Or&gt;
+        &lt;Or&gt;
+          &lt;TestAncestor&gt;
+            &lt;TestId&gt;NUnit2x::A17AD13B-BF5B-4004-9A9F-F96E64702D99::.NETFramework,Version=v4.8::TestProject1.TestWithPostOperation+Tests.TestPostWithTypeClass&lt;/TestId&gt;
+          &lt;/TestAncestor&gt;
+          &lt;TestAncestor&gt;
+            &lt;TestId&gt;NUnit2x::A17AD13B-BF5B-4004-9A9F-F96E64702D99::.NETFramework,Version=v4.8::TestProject1.TestsWithData.TestPostCallWithData&lt;/TestId&gt;
+          &lt;/TestAncestor&gt;
+        &lt;/Or&gt;
+        &lt;TestAncestor&gt;
+          &lt;TestId&gt;NUnit2x::A17AD13B-BF5B-4004-9A9F-F96E64702D99::.NETFramework,Version=v4.8::TestProject1.Tests.TestsWithMultipleData+Tests.Test_withTestCaseSourceData&lt;/TestId&gt;
+        &lt;/TestAncestor&gt;
+      &lt;/Or&gt;
+      &lt;TestAncestor&gt;
+        &lt;TestId&gt;NUnit2x::A17AD13B-BF5B-4004-9A9F-F96E64702D99::.NETFramework,Version=v4.8::TestProject1.Tests.TestWithDataExercise+Tests.TestWithTestCaseSourceData&lt;/TestId&gt;
+      &lt;/TestAncestor&gt;
+    &lt;/Or&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;NUnit2x::A17AD13B-BF5B-4004-9A9F-F96E64702D99::.NETFramework,Version=v4.8::TestProject1.Tests.TestWithDataExercise+Tests.TestWithDataExercise&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=86a0635b_002Daf90_002D4cca_002Db26d_002D0312c58af834/@EntryIndexedValue">&lt;SessionState ContinuousTestingIsOn="False" ContinuousTestingMode="0" FrameworkVersion="{x:Null}" IsLocked="False" Name="Tests" PlatformMonoPreference="{x:Null}" PlatformType="{x:Null}" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit2x::A17AD13B-BF5B-4004-9A9F-F96E64702D99::.NETFramework,Version=v4.8::TestProject1.Tests.TestsWithMultipleData+Tests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

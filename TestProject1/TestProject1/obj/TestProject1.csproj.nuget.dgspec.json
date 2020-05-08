@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/rajshree.sharma/RiderProjects/TestProject1/TestProject1/TestProject1.csproj": {}
+  },
+  "projects": {
+    "/Users/rajshree.sharma/RiderProjects/TestProject1/TestProject1/TestProject1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rajshree.sharma/RiderProjects/TestProject1/TestProject1/TestProject1.csproj",
+        "projectName": "TestProject1",
+        "projectPath": "/Users/rajshree.sharma/RiderProjects/TestProject1/TestProject1/TestProject1.csproj",
+        "packagesPath": "/Users/rajshree.sharma/.nuget/packages/",
+        "outputPath": "/Users/rajshree.sharma/RiderProjects/TestProject1/TestProject1/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/rajshree.sharma/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[2.6.4, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Newtonsoft.Json.Bson": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Newtonsoft.Json.Schema": {
+              "target": "Package",
+              "version": "[3.0.13, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.10.2-alpha.0.8, )"
+            },
+            "Xamarin.UITest": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
